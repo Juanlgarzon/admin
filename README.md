@@ -5,6 +5,6 @@ usuario: admin
 
 contraseña: user_admin
 
-bootstrap, css, php
+Tecnologias usadas: bootstrap, css, php, jquery, ajax
 
 Encriptacion aes-256
